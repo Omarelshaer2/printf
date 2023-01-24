@@ -14,7 +14,7 @@ This means that it has one mandatory format argument, and an extra number of arg
 
 **Format of the format string**
 
-The format string is a character string starting and ending with double quotes. The format string is composed o zero or more directives; ordinary characters (not %), and conversion specifications, each of which results in fetching zero or more subsequent arguments. 
+The format string is a character string starting and ending with double quotes. The format string is composed 0 zero or more directives; ordinary characters (not %), and conversion specifications, each of which results in fetching zero or more subsequent arguments.
 
 Each conversion specification is introduced by the character **%** and ends with a **conversion specifier**. In between there may be (in this order):
 
